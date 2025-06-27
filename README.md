@@ -92,15 +92,6 @@ Comparison with baseline models (Logistic Regression, SVM, Random Forest) shows 
 - Develop web-based or mobile deployment pipelines
 - Explore hybrid models combining CNNs with traditional ML methods
 
-## Repository Structure
-├── MyDataset.py # Custom dataset loader
-├── MyModel.py # CNN model definition
-├── Train.py # Training script
-├── project.ipynb # Full workflow, visualizations, evaluation
-├── Pneumonia Detection.pptx # Slide deck
-├── Report final.pdf # Final written report
-└── README.md # Project summary and documentation
-
 
 ## Authors
 
